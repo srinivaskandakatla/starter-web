@@ -1,1 +1,1 @@
-sam\[ple\].txt
+*1.txt
