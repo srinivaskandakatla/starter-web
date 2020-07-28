@@ -4,7 +4,7 @@
 
 it is a sample read me file to test the organisers
 addling a new line for rebase example
-
+adding an extra for merging
 ## Purpose
 
 main purose for creating README file is test the cases
