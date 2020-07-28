@@ -3,6 +3,7 @@
 ## Introduction
 
 it is a sample read me file to test the organisers
+addling a new line for rebase example
 
 ## Purpose
 
